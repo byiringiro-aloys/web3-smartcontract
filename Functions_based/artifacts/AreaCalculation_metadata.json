@@ -7,6 +7,11 @@
 		"abi": [
 			{
 				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
 				"name": "LENGTH",
 				"outputs": [
 					{
@@ -67,11 +72,11 @@
 	},
 	"sources": {
 		"contracts/AreaOfRectangle.sol": {
-			"keccak256": "0x6a74106f917ea3b9721e16605b186ad0b8c1241d334c0b7d489aed00ca82f581",
+			"keccak256": "0x9562141d3f2126ebe9ea6308e77ee53d4f31e2b903b6ada901a080817e8126a3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://85b37d4969b635d0081332d692dae6c9d0493e57511b4c79cc2fe9de86f024a6",
-				"dweb:/ipfs/QmYtE7p2x85qx8qqyDx8w64usMaGqV9fcuK8jWjhwy6dw4"
+				"bzz-raw://79b83152ee1ce1b6fcd72723df89403dd2bd7a3d2e60920ae290081f48dfcaa1",
+				"dweb:/ipfs/QmRcm1uocWEDQLcFLQNPQaJcsVDXKrWkZpygeAwC5xfycV"
 			]
 		},
 		"hardhat/console.sol": {
