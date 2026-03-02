@@ -10,7 +10,7 @@ contract taxCalculator{
 
 
     function totalPrice() public view{
-        uint totaltax = (price*5)/100;
+    uint totaltax = (price*5)/100;
         uint total_price=price+totaltax;
         console.log("Total price: ",total_price);
     } 
