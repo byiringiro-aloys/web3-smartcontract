@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "price",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/gas_price_demo.sol": "gasPriceDemo"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/gas_price_demo.sol": {
+			"keccak256": "0x5a5458c7e0f622ee437c91326e89b10b7fdb533e01be06e927b1d65e0a8f11c9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3f52061bdd425b57bacfc307590632016598f51fd06743981e63e2b4a4de68f9",
+				"dweb:/ipfs/QmZuBCuH3w6Fkech6gRn9hhat5fJopJkJt7LWYvvKiH1Sw"
+			]
+		}
+	},
+	"version": 1
+}
